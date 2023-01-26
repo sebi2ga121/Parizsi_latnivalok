@@ -1,5 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(213, 227, 246);
+    color: rgb(0, 0, 139);
 }
 
 .tartalom {
@@ -31,6 +33,7 @@ h1 {
 #kepeiffel
 {    
     margin: 0 10px;
+    float: right;
 }
 
 #keplouvre {    
@@ -47,6 +50,7 @@ h1 {
 table 
 {
     margin-left: 20px;
+    text-align: center;
 }
 
 table, table th, table td
@@ -74,3 +78,18 @@ table, table th, table td
   text-align: center;
 }
 
+#fejlec{
+    background-image: url('notredame.jpg');
+    height: 200px;
+    text-align: center;
+    font-size: 48pt;
+}
+
+h2{
+    font-size: 18pt;
+
+}
+
+h3{
+    font-size: 14pt;
+}
